@@ -17,3 +17,16 @@ SELECT *
   FROM DUAL;
 ```
 
+## Make a task list
+
+- [x] List syntax is required
+- [x] This item is complete too
+- [ ] This item is not complete
+
+### Here is another list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+      
+
